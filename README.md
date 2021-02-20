@@ -1,4 +1,4 @@
-### Assignment
+### Project
 
 In this project, medical examination data is calculated and visualized using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.
 
